@@ -1,0 +1,8 @@
+[package]
+name = "darkcaves"
+version = "0.1.0"
+authors = ["richardanaya"]
+
+[dependencies]
+pancurses = "0.16"
+rand = "0.5.5"
